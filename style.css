@@ -5,6 +5,7 @@ h1 {
   color: #89BE35;
   text-align: center;
   font-family: 'Atma';
+  border-style: dotted;
 }
 p {
   font-family: 'Atma';font-size: 25px;
